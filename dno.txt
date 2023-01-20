@@ -56,3 +56,13 @@ Hello, it's me
 .nivoSlider {
 * {float:none;position:static;width:auto}
 body {background-image:none;font-size:0.9em;padding:1% 2%;text-align:left}
+#sidebar{float:right;width:280px;margin:0 15px 10px 0}
+#sidebar h2 {font-size:1.2em;padding:0 0 2px 0;margin:0 0 6px 0;border-bottom: 1px solid #ccc}
+#sidebar ul {margin:0 0 18px 0;padding:0}
+#sidebar ul li {list-style:none;margin:0 0 8px 0;padding:0}
+#footer{clear:both;background:#555;color:#eee;margin:10px auto;padding:15px}
+#footer a{color:#eee}
+#footer p{margin:0;font-size:0.9em;font-weight:700}
+ul#navitab{margin:0;padding:0}
+ul#navitab li{display:block;float:left;margin:0;padding:0}
+ul#navitab li a{background:url(images/corner.gif) no-repeat top right #eee;border-left:1px solid #ccc;border-right:2px solid #fff;color:#555;display:block;height:1.2em;padding:5px 16px 7px;text-align:center;text-decoration:none;text-transform:uppercase;white-space:nowrap}
