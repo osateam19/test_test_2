@@ -66,3 +66,9 @@ body {background-image:none;font-size:0.9em;padding:1% 2%;text-align:left}
 ul#navitab{margin:0;padding:0}
 ul#navitab li{display:block;float:left;margin:0;padding:0}
 ul#navitab li a{background:url(images/corner.gif) no-repeat top right #eee;border-left:1px solid #ccc;border-right:2px solid #fff;color:#555;display:block;height:1.2em;padding:5px 16px 7px;text-align:center;text-decoration:none;text-transform:uppercase;white-space:nowrap}
+Hello, it's me
+
+
+
+
+
