@@ -34,4 +34,4 @@ Hello, it's me
 
 
 
- * The buttons are added dynamically by jCarousel before * the <ul> list (inside the <div> described above) and * have the classnames "jcarousel-next" and "jcarousel-prev".
+ * The buttons are added dynamically by jCarousel before * the <ul> list (inside the <div> described above) and * have the classnames "jcarousel-next" and "jcarousel-prev".	left:-9999px; 	visibility:hidden; 	min-height: 160px; 	word-wrap: break-word;	white-space: pre-wrap;}.textarea-example .content .textarea-wrapper .mCSB_scrollTools{ margin: 10px 5px; }.scrollTo-demo .content{ height: 290px; }
