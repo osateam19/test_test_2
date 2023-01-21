@@ -138,3 +138,8 @@ Hello, it's me
 
 
 
+.width6, .grid6, .span-6 {width: 405px;}
+.width6_4cols,.grid6_4cols  {width: 90px;}
+.input_width6 {width: 399px;}
+ 
+.width7, .grid7, .span-7 {width: 475px;}
