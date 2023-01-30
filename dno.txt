@@ -143,3 +143,8 @@ Hello, it's me
 .input_width6 {width: 399px;}
  
 .width7, .grid7, .span-7 {width: 475px;}
+.row .pull5 {
+	left: -405px; 
+	}
+.row .pull4 {
+	left: -324px; 
